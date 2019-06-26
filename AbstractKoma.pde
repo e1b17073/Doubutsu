@@ -39,5 +39,4 @@ abstract class AbstractKoma {
     gs.turn = (gs.turn+1)%2;
   }
  
-
 }
